@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 1550
 slug  : the-twelve-bar
-seal  : e75e7c036f87ef77d103b75f7b26e0a66e1aa0909d14d3559374183e2e5cb527
-prev  : 16a009b25b9afb9ef33d0afc095226043f9704cbcfdbff15bce276853a274582
-link  : 73453ab02dd93e50f7b6ad5223a7774f8364019f57f425b73a536de2b3bc3850
-head  : 8f4ab365be9d995e7d8008d99458957d4accde2dda9fed639e129c1b62280ba7
+seal  : b61e5ef3566587f73cc99ad017ee376e8d0bb732cb6d3fb036a31a235a1fe9c2
+prev  : eda32dcaf8654b5a1d96f86ae1b12526091c7259d79ff181377248c6beb4a86d
+link  : a73ee32785e3dd617f8fa4e5a3ae37cb2d9fce744be7035efdc317d7855c5a9a
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
